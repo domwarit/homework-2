@@ -1,0 +1,26 @@
+body{
+    font-family: 'Oxanium', cursive;
+}
+
+#navigation{
+    float: left;
+    margin: 30px;
+    font-size:x-large;
+    background-color:orange;
+    color:white;
+    height:950px
+    ;
+    
+}
+#office{
+    width: 200px;
+    height: 200px;
+}
+h1{
+    font-style: bold;
+    text-align: center;
+}
+h2{
+    font-size: x-small;
+    text-align: center;
+}

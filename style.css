@@ -1,0 +1,23 @@
+.story{
+    font-family: 'Oxanium', cursive;
+}
+
+#navigation{
+    float: left;
+    margin: 30px;
+    font-size:x-large;
+    background-color:orange;
+    color:white;
+    height:950px
+    ;
+    
+}
+
+h1{
+    font-style: bold;
+    text-align: center;
+    
+}
+h2{
+    
+}
