@@ -16,6 +16,10 @@ body{
     width: 200px;
     height: 200px;
 }
+#password{
+    width: 200px;
+    height: 200px;
+}
 h1{
     font-style: bold;
     text-align: center;
